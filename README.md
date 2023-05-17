@@ -12,6 +12,8 @@ Yo. Этот проект - телеграм бот по имени Андрюш
 3. Получите данные.
 
 Далее пример:
+
+
 ![image](https://github.com/NoMoreSweet/BotAndreuha/assets/87818867/1333ee0b-865f-4a5c-99e6-3861e40badf6)
 ![image](https://github.com/NoMoreSweet/BotAndreuha/assets/87818867/35617965-48bc-4ead-a5b7-ced6e09fa67e)
 
